@@ -1,5 +1,5 @@
 # progNaturfag
-Python program som kan brukast i naturfaga i den vidaregåande skulen
+Python-program som kan brukast i naturfaga i den vidaregåande skulen
 
 Programma er i hovudsak laga av meg og Jonas van den Brink.
 
